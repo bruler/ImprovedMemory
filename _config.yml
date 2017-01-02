@@ -58,6 +58,7 @@ exclude:
   - Gemfile.lock
   - README.md
   - vendor/
+  - config.ru
 gems:
   - jekyll-assets
   - jekyll-paginate
